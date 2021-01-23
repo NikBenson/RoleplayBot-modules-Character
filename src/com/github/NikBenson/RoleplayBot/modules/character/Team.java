@@ -1,4 +1,4 @@
-package com.github.NikBenson.RoleplayBot.modules.character;
+package com.github.nikbenson.roleplaybot.modules.character;
 
 import net.dv8tion.jda.api.JDA;
 import net.dv8tion.jda.api.entities.Role;

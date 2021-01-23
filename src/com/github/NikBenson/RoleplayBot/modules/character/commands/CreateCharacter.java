@@ -1,8 +1,8 @@
-package com.github.NikBenson.RoleplayBot.modules.character.commands;
+package com.github.nikbenson.roleplaybot.modules.character.commands;
 
-import com.github.NikBenson.RoleplayBot.commands.Command;
-import com.github.NikBenson.RoleplayBot.commands.context.PrivateContext;
-import com.github.NikBenson.RoleplayBot.users.PlayerManager;
+import com.github.nikbenson.roleplaybot.commands.Command;
+import com.github.nikbenson.roleplaybot.commands.context.PrivateContext;
+import com.github.nikbenson.roleplaybot.users.PlayerManager;
 import net.dv8tion.jda.api.entities.User;
 import net.dv8tion.jda.api.events.message.priv.PrivateMessageReceivedEvent;
 

@@ -1,11 +1,11 @@
-package com.github.NikBenson.RoleplayBot.modules.character.commands;
+package com.github.nikbenson.roleplaybot.modules.character.commands;
 
-import com.github.NikBenson.RoleplayBot.commands.Command;
-import com.github.NikBenson.RoleplayBot.commands.context.ServerContext;
-import com.github.NikBenson.RoleplayBot.roleplay.character.SheetBlueprint;
-import com.github.NikBenson.RoleplayBot.roleplay.character.Skills;
-import com.github.NikBenson.RoleplayBot.users.Player;
-import com.github.NikBenson.RoleplayBot.users.PlayerManager;
+import com.github.nikbenson.roleplaybot.commands.Command;
+import com.github.nikbenson.roleplaybot.commands.context.ServerContext;
+import com.github.nikbenson.roleplaybot.roleplay.character.SheetBlueprint;
+import com.github.nikbenson.roleplaybot.roleplay.character.Skills;
+import com.github.nikbenson.roleplaybot.users.Player;
+import com.github.nikbenson.roleplaybot.users.PlayerManager;
 import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 
 import java.util.Map;

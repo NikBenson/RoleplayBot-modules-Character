@@ -1,10 +1,10 @@
-package com.github.NikBenson.RoleplayBot.modules.character;
+package com.github.nikbenson.roleplaybot.modules.character;
 
-import com.github.NikBenson.RoleplayBot.configurations.ConfigurationManager;
-import com.github.NikBenson.RoleplayBot.configurations.ConfigurationPaths;
-import com.github.NikBenson.RoleplayBot.configurations.JSONConfigured;
-import com.github.NikBenson.RoleplayBot.modules.ModulesManager;
-import com.github.NikBenson.RoleplayBot.modules.player.models.Team;
+import com.github.nikbenson.roleplaybot.configurations.ConfigurationManager;
+import com.github.nikbenson.roleplaybot.configurations.ConfigurationPaths;
+import com.github.nikbenson.roleplaybot.configurations.JSONConfigured;
+import com.github.nikbenson.roleplaybot.modules.ModulesManager;
+import com.github.nikbenson.roleplaybot.modules.player.models.Team;
 import net.dv8tion.jda.api.JDA;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
